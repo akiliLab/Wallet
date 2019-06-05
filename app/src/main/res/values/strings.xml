@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">wallet</string>
+    <string name="fragmentName">MainFragment</string>
+    <string name="more_action">more</string>
+</resources>
