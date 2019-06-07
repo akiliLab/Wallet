@@ -2,4 +2,5 @@
     <string name="app_name">wallet</string>
     <string name="fragmentName">MainFragment</string>
     <string name="more_action">more</string>
+    <string name="bank_balance">£2,234</string>
 </resources>
