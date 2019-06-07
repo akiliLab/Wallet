@@ -10,4 +10,7 @@
     <color name="primaryTextColor">#ffffff</color>
     <color name="secondaryTextColor">#ffffff</color>
     <color name="error">#E53935</color> <!-- Red 600 -->
+
+    <color name="white">#fff</color>
+    <color name="bluePale">#88f</color>
 </resources>
