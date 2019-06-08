@@ -4,4 +4,5 @@
     <string name="more_action">more</string>
     <string name="bank_balance">£2,234</string>
     <string name="account">account</string>
+    <string name="notification_icon">notification icon</string>
 </resources>
