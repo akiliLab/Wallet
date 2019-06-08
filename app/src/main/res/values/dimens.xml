@@ -4,4 +4,8 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="toolbar_elevation">4dp</dimen>
+
+    <!-- Transaction dimensions-->
+    <dimen name="icon_size">32dp</dimen>
+    <dimen name="amount_size_small">24.0sp</dimen>
 </resources>

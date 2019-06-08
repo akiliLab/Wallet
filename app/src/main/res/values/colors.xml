@@ -12,5 +12,8 @@
     <color name="error">#E53935</color> <!-- Red 600 -->
 
     <color name="white">#fff</color>
+    <color name="black">#000</color>
     <color name="bluePale">#88f</color>
+
+    <color name="subtitle">#ff8a919d</color>
 </resources>

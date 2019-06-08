@@ -21,7 +21,7 @@ class TransactionListAdapter: RecyclerView.Adapter<TransactionListAdapter.ViewHo
     }
 
     override fun getItemCount(): Int {
-        return 10
+        return 30
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
